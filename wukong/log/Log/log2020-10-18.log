@@ -1,0 +1,1509 @@
+2020-10-18 19:15:22,028 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:15:45,928 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:15:46,023 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001567FDB1B70>成功获取<xlrd.sheet.Sheet object at 0x000001567FDF81D0>成功
+2020-10-18 19:15:46,024 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:15:46,029 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001567FDDEB70>成功获取<xlrd.sheet.Sheet object at 0x000001567FDF8160>成功
+2020-10-18 19:15:46,029 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:15:46,066 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:15:46,066 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:15:46,066 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:15:46,066 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:15:46,066 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:15:46,066 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:15:46,067 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:15:54,626 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="2ac66ea589f9ddb54ade8d3c94a88547")>驱动成功
+2020-10-18 19:15:59,255 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:16:07,213 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="e12635b4474e606050a5279ddee1494a")>驱动成功
+2020-10-18 19:16:12,546 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:23:00,197 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:23:00,324 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DCE5F41C18>成功获取<xlrd.sheet.Sheet object at 0x000001DCE5F87240>成功
+2020-10-18 19:23:00,324 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:23:00,330 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DCE5F6EBE0>成功获取<xlrd.sheet.Sheet object at 0x000001DCE5F871D0>成功
+2020-10-18 19:23:00,330 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:23:00,330 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:23:00,331 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:23:00,331 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:23:00,331 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:23:00,331 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:23:00,331 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:23:00,331 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:23:09,930 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f5844b029666888b1c13c0a5ec442d5d")>驱动成功
+2020-10-18 19:23:14,437 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:23:25,326 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:23:25,326 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:23:25,327 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:23:28,978 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:23:36,177 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="7e36e996009c3440dc679691287f2a8d")>驱动成功
+2020-10-18 19:23:40,815 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:26:05,050 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:26:05,172 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000019C7C5B2BE0>成功获取<xlrd.sheet.Sheet object at 0x0000019C7C5F7240>成功
+2020-10-18 19:26:05,190 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000019C7C5DEBE0>成功获取<xlrd.sheet.Sheet object at 0x0000019C7C5F71D0>成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:26:05,196 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:26:05,197 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:26:05,197 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:26:14,393 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="69c009916968459125e4a0f1d9b95f92")>驱动成功
+2020-10-18 19:26:18,567 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:26:23,403 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:26:23,403 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:26:23,404 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:26:23,626 - base_page.py:[20] - INFO - 定位元素(('name', 'login_email'),)成功
+2020-10-18 19:26:27,139 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:26:34,439 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="9876bb14543f71b4a4f18d74d187164a")>驱动成功
+2020-10-18 19:26:38,741 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:28:18,477 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:28:18,584 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001FC874C2C50>成功获取<xlrd.sheet.Sheet object at 0x000001FC875072B0>成功
+2020-10-18 19:28:18,584 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001FC874EEF28>成功获取<xlrd.sheet.Sheet object at 0x000001FC87507080>成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:28:18,592 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:28:18,593 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:28:27,271 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="3bd43a4f77d6bc92ad987162ef1aafc4")>驱动成功
+2020-10-18 19:28:31,710 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:28:37,033 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:28:37,034 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:28:37,034 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:28:37,130 - base_page.py:[40] - ERROR - 定位元素((('name', 'login_email'),),)失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(*loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:28:39,718 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:29:00,083 - driver.py:[40] - ERROR - 请先安装chorme驱动
+Traceback (most recent call last):
+  File "G:\demo\wukong\common\driver.py", line 15, in chorme
+    self.driver = webdriver.Chrome()
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\chrome\webdriver.py", line 81, in __init__
+    desired_capabilities=desired_capabilities)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 157, in __init__
+    self.start_session(capabilities, browser_profile)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 252, in start_session
+    response = self.execute(Command.NEW_SESSION, parameters)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.SessionNotCreatedException: Message: session not created
+from chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:30:27,664 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:30:27,779 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001E1AC261C18>成功获取<xlrd.sheet.Sheet object at 0x000001E1AC2A7278>成功
+2020-10-18 19:30:27,779 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001E1AC28EC18>成功获取<xlrd.sheet.Sheet object at 0x000001E1AC2A7048>成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:30:27,785 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:30:27,786 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:30:35,578 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="1349e277128c85c4af495640e9696a49")>驱动成功
+2020-10-18 19:30:40,020 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:30:43,643 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:30:43,644 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:30:43,644 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:30:43,718 - base_page.py:[40] - ERROR - 定位元素((('name', 'login_email'),),)失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(*loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:30:47,248 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:30:56,149 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="4913752cb2ec7b823e1ace7a225e8d06")>驱动成功
+2020-10-18 19:31:02,211 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:31:45,751 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:31:45,813 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000024FB5FB2C18>成功获取<xlrd.sheet.Sheet object at 0x0000024FB5FF7278>成功
+2020-10-18 19:31:45,813 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:31:45,818 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000024FB5FDEC18>成功获取<xlrd.sheet.Sheet object at 0x0000024FB5FF7048>成功
+2020-10-18 19:31:45,818 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:31:45,818 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:31:45,818 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:31:45,819 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:31:45,819 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:31:45,819 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:31:45,819 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:31:45,819 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:31:52,829 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="2b14a0364a9a3ae820c50eae01c84b4d")>驱动成功
+2020-10-18 19:31:57,350 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:32:01,304 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:32:01,304 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:32:01,304 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:32:01,351 - base_page.py:[40] - ERROR - 定位元素((('name', 'login_email'),),)失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:32:03,869 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:32:11,247 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="3475f86933e63711d1ff79fdb58555b9")>驱动成功
+2020-10-18 19:32:14,880 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:36:19,940 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:36:20,023 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DBCCBD3DA0>成功获取<xlrd.sheet.Sheet object at 0x000001DBCCC14400>成功
+2020-10-18 19:36:20,023 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:36:20,029 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DBCCC02F28>成功获取<xlrd.sheet.Sheet object at 0x000001DBCCC142E8>成功
+2020-10-18 19:36:20,029 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:36:20,030 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:36:29,285 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="1dff63199cae4f584449c0cd1eba1ebb")>驱动成功
+2020-10-18 19:36:33,835 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:36:41,312 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:36:41,312 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:36:41,312 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:36:41,592 - base_page.py:[40] - ERROR - 定位元素((('name', 'login_email'),),)失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:36:45,215 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:36:52,298 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="65002b32e7a08752291a16835b60ec9b")>驱动成功
+2020-10-18 19:36:56,246 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:38:45,054 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:38:45,133 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000016FF5DD3D68>成功获取<xlrd.sheet.Sheet object at 0x0000016FF5E183C8>成功
+2020-10-18 19:38:45,134 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:38:45,139 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000016FF5E01EF0>成功获取<xlrd.sheet.Sheet object at 0x0000016FF5E18208>成功
+2020-10-18 19:38:45,139 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:38:45,140 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:38:53,908 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="7d11547bed64f242c7737b524b22ae5f")>驱动成功
+2020-10-18 19:38:58,499 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:39:03,770 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:39:03,770 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:39:03,771 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:39:03,839 - base_page.py:[40] - ERROR - 定位元素((('name', 'login_email'),),)失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:39:07,107 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:39:10,051 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:44:03,859 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:44:04,025 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001ADFD877E80>成功获取<xlrd.sheet.Sheet object at 0x000001ADFD8AE4E0>成功
+2020-10-18 19:44:04,026 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:44:18,051 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:44:18,052 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:46:03,324 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:46:03,387 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DACE427E48>成功获取<xlrd.sheet.Sheet object at 0x000001DACE45D4A8>成功
+2020-10-18 19:46:03,387 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:46:14,823 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:46:14,823 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:46:14,913 - base_page.py:[40] - ERROR - 定位元素((('name', 'login_email'),),)失败
+Traceback (most recent call last):
+  File "G:/demo/wukong/page/base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:46:41,391 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:46:41,440 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000020862C77E48>成功获取<xlrd.sheet.Sheet object at 0x0000020862CAD4A8>成功
+2020-10-18 19:46:41,440 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:46:52,465 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:46:52,465 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:46:52,471 - base_page.py:[40] - ERROR - 定位元素(('name', 'login_email'),)失败
+Traceback (most recent call last):
+  File "G:/demo/wukong/page/base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:49:33,954 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:49:34,008 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000028E37337E48>成功获取<xlrd.sheet.Sheet object at 0x0000028E3736D4A8>成功
+2020-10-18 19:49:34,008 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:49:45,687 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:49:45,688 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:49:45,919 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 19:49:47,303 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 19:49:47,336 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 19:49:47,581 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 19:50:11,622 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:50:11,680 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000012D1E552BE0>成功获取<xlrd.sheet.Sheet object at 0x0000012D1E596240>成功
+2020-10-18 19:50:11,680 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:50:11,685 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000012D1E57DF60>成功获取<xlrd.sheet.Sheet object at 0x0000012D1E5960F0>成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:50:11,686 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:50:18,676 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="4f0d59f63c874fec67bf61092b89ff3d")>驱动成功
+2020-10-18 19:50:23,267 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:50:27,029 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:50:27,030 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:50:27,030 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:50:27,123 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 19:50:28,033 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 19:50:28,137 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 19:50:28,441 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 19:50:28,445 - base_page.py:[40] - ERROR - 定位元素((('name', 'loginsubm'),),)失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 51, in get_element
+    WebDriverWait(self.base_driver,10,1).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 128, in __call__
+    return _element_if_visible(_find_element(driver, self.locator))
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidArgumentException: Message: invalid argument: 'using' must be a string
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 19:50:31,799 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:50:34,628 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:51:00,688 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:51:00,786 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002567F962BE0>成功获取<xlrd.sheet.Sheet object at 0x000002567F9A6240>成功
+2020-10-18 19:51:00,786 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:51:00,792 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002567F98DF60>成功获取<xlrd.sheet.Sheet object at 0x000002567F9A60F0>成功
+2020-10-18 19:51:00,792 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:51:00,792 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:51:00,792 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:51:00,792 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:51:00,792 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:51:00,793 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:51:00,793 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:51:00,793 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:51:07,770 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f5277e217e522c083000eee255f2de3a")>驱动成功
+2020-10-18 19:51:12,132 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:51:16,231 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:51:16,231 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:51:16,231 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:51:16,314 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 19:51:17,089 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 19:51:17,150 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 19:51:17,331 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 19:51:17,413 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 19:51:17,944 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 19:51:17,945 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 19:51:17,967 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:51:32,431 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:51:35,207 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:53:52,607 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:53:52,694 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CC0C1D3D68>成功获取<xlrd.sheet.Sheet object at 0x000001CC0C2173C8>成功
+2020-10-18 19:53:52,694 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:53:52,699 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CC0C200EF0>成功获取<xlrd.sheet.Sheet object at 0x000001CC0C217208>成功
+2020-10-18 19:53:52,699 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:53:52,699 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:53:52,700 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:53:52,700 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:53:52,700 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:53:52,700 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:53:52,700 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:53:52,700 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:54:00,441 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="177246c2268ebefd001ad2e1f0238653")>驱动成功
+2020-10-18 19:54:04,741 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:54:08,984 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:54:08,985 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:54:08,985 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:54:09,235 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 19:54:09,680 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 19:54:09,741 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 19:54:10,286 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 19:54:10,339 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 19:54:10,560 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 19:54:10,560 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 19:54:10,585 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:54:24,258 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:54:28,776 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 19:55:28,261 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 19:55:28,348 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001C87FC64C18>成功获取<xlrd.sheet.Sheet object at 0x000001C87FCA5278>成功
+2020-10-18 19:55:28,349 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001C87FC90F60>成功获取<xlrd.sheet.Sheet object at 0x000001C87FCA5128>成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 19:55:28,354 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 19:55:28,355 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 19:55:37,053 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="7c6249325cfcd4cc4a5f2b11c77f7d4b")>驱动成功
+2020-10-18 19:55:41,728 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 19:55:45,735 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 19:55:45,736 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 19:55:45,736 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 19:55:45,953 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 19:55:47,164 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 19:55:47,196 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 19:55:47,390 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 19:55:47,493 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 19:55:47,711 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 19:55:47,711 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 19:55:52,712 - base_page.py:[20] - INFO - 现在开始需要强制等待5
+2020-10-18 19:55:57,537 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/main.php成功
+2020-10-18 19:56:11,424 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 19:56:15,182 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 20:19:42,383 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:19:42,573 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001FC2C334BA8>成功获取<xlrd.sheet.Sheet object at 0x000001FC2C378208>成功
+2020-10-18 20:19:42,573 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:19:42,579 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001FC2C35EF60>成功获取<xlrd.sheet.Sheet object at 0x000001FC2C378080>成功
+2020-10-18 20:19:42,579 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:19:42,604 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 20:19:53,391 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="192b9d6ce75efca60363f1a8da3e585a")>驱动成功
+2020-10-18 20:19:57,962 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 20:20:05,821 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:20:05,821 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:20:05,828 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:20:06,238 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:20:07,094 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:20:07,123 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:20:07,366 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 20:20:07,417 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 20:20:07,704 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 20:20:07,704 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 20:20:12,705 - base_page.py:[20] - INFO - 现在开始需要强制等待5
+2020-10-18 20:20:21,122 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/main.php成功
+2020-10-18 20:20:33,052 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:20:49,101 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:20:49,101 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:20:49,101 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:21:02,982 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:21:06,930 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 20:25:35,293 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:25:35,443 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CC10AF4BE0>成功获取<xlrd.sheet.Sheet object at 0x000001CC10B38208>成功
+2020-10-18 20:25:35,443 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:25:35,448 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CC10B1EF60>成功获取<xlrd.sheet.Sheet object at 0x000001CC10B38080>成功
+2020-10-18 20:25:35,448 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 20:25:35,448 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:25:35,448 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 20:25:35,449 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 20:25:35,449 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 20:25:35,449 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 20:25:35,449 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:25:35,449 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 20:25:44,764 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c93d6a30770b1b1119322dcd3b1c23a6")>驱动成功
+2020-10-18 20:25:49,354 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 20:25:59,458 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:25:59,487 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:25:59,487 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:25:59,861 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:26:00,788 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:26:00,849 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:26:01,148 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 20:26:01,192 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 20:26:01,392 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 20:26:01,392 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 20:26:06,394 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 20:26:13,402 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/main.php成功
+2020-10-18 20:26:28,437 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:26:44,721 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:26:44,722 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:26:44,722 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:26:54,722 - base_page.py:[20] - INFO - 现在开始需要强制等待10秒
+2020-10-18 20:27:02,180 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:27:05,926 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 20:34:26,742 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:34:26,952 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CBC9FB6390>成功获取<xlrd.sheet.Sheet object at 0x000001CBC9FDC9B0>成功
+2020-10-18 20:34:26,953 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CBC9FDCA20>成功获取<xlrd.sheet.Sheet object at 0x000001CBC9FDC470>成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 20:34:26,958 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 20:34:26,959 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:34:26,959 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 20:34:40,089 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:34:40,090 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:34:40,298 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:34:41,182 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:34:41,250 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:34:41,625 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 20:34:41,675 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 20:34:41,998 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 20:34:55,895 - base_page.py:[20] - INFO - 定位元素('link text', '退出')成功
+2020-10-18 20:35:04,481 - base_page.py:[20] - INFO - 点击元素('link text', '退出')成功
+2020-10-18 20:37:15,099 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:37:15,171 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001F9EB4F97F0>成功获取<xlrd.sheet.Sheet object at 0x000001F9EB520E10>成功
+2020-10-18 20:37:15,172 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:37:15,193 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001F9EB520160>成功获取<xlrd.sheet.Sheet object at 0x000001F9EB53D1D0>成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:37:15,194 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 20:37:23,392 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c2cbaa0b187ee175595de8a140911874")>驱动成功
+2020-10-18 20:37:27,837 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 20:37:33,384 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:37:33,385 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:37:33,385 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:37:33,517 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:37:35,049 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:37:35,096 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:37:35,522 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 20:37:35,558 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 20:37:35,688 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 20:37:35,689 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 20:37:40,689 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 20:37:46,656 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/main.php成功
+2020-10-18 20:37:59,991 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:38:15,758 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:38:15,758 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:38:15,758 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:38:25,759 - base_page.py:[20] - INFO - 现在开始需要强制等待10秒
+2020-10-18 20:38:30,840 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:38:34,498 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 20:53:24,288 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:53:24,447 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000016B542C68D0>成功获取<xlrd.sheet.Sheet object at 0x0000016B542EEEF0>成功
+2020-10-18 20:53:24,447 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:53:24,453 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000016B542EE240>成功获取<xlrd.sheet.Sheet object at 0x0000016B5430C0F0>成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 1131228804.0 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:53:24,454 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 20:53:24,495 - readexcel.py:[20] - INFO - 获取表数据 1131228804.0 成功
+2020-10-18 20:53:24,495 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 20:53:34,588 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f1723073516ca306861418af007899d5")>驱动成功
+2020-10-18 20:53:38,959 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 20:53:44,475 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:53:44,476 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:53:44,476 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:53:45,095 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:53:45,126 - base_page.py:[40] - ERROR - 元素('name', 'login_email')输入测试数据1131228804.0失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 110, in input_value
+    element.send_keys(value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webelement.py", line 478, in send_keys
+    {'text': "".join(keys_to_typing(value)),
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\common\utils.py", line 150, in keys_to_typing
+    for i in range(len(val)):
+TypeError: object of type 'float' has no len()
+2020-10-18 20:53:48,854 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:53:55,641 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 20:54:27,948 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:54:28,044 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001BF64FB68D0>成功获取<xlrd.sheet.Sheet object at 0x000001BF64FDEEF0>成功
+2020-10-18 20:54:28,045 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:54:28,050 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001BF64FDE240>成功获取<xlrd.sheet.Sheet object at 0x000001BF64FFC0F0>成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 20:54:28,051 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 20:54:36,776 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="f65deba1a0c2c8e589d7fa0acfe0e55f")>驱动成功
+2020-10-18 20:54:41,238 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 20:54:45,821 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:54:45,821 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:54:45,822 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 20:54:46,147 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:54:47,085 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 20:54:47,147 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:54:47,973 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:54:48,043 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:54:48,326 - base_page.py:[20] - INFO - 点击元素('name', 'login_pws')成功
+2020-10-18 20:54:48,326 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 20:54:48,404 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 20:54:52,020 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 20:54:56,270 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 20:55:46,482 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:55:46,553 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001D22FF56E48>成功获取<xlrd.sheet.Sheet object at 0x000001D22FF984A8>成功
+2020-10-18 20:55:46,554 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:56:03,872 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:56:03,872 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:56:04,193 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 20:56:05,500 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:56:06,419 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:56:06,461 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:56:07,518 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 20:57:07,452 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 20:57:07,569 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000249E6836E48>成功获取<xlrd.sheet.Sheet object at 0x00000249E68784A8>成功
+2020-10-18 20:57:07,569 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 20:57:22,873 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 20:57:22,874 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 20:57:22,913 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 20:57:23,320 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 20:57:24,043 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 20:57:24,089 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 20:57:24,373 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 21:00:53,520 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 21:00:53,637 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002605D456D68>成功获取<xlrd.sheet.Sheet object at 0x000002605D49C3C8>成功
+2020-10-18 21:00:53,637 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:00:53,643 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002605D49C7B8>成功获取<xlrd.sheet.Sheet object at 0x000002605D481F98>成功
+2020-10-18 21:00:53,643 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 21:00:53,643 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:00:53,643 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:00:53,643 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 21:00:53,643 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 21:00:53,644 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:00:53,644 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:00:53,644 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:00:53,644 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:00:53,644 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:01:01,730 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="d580c18085d94f9f6cd056995738b5b3")>驱动成功
+2020-10-18 21:01:06,098 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 21:01:10,259 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 21:01:10,259 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 21:01:10,259 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 21:01:10,377 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:01:11,316 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 21:01:11,373 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:01:11,774 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 21:01:11,812 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 21:01:12,354 - base_page.py:[20] - INFO - 点击元素('name', 'login_pws')成功
+2020-10-18 21:01:12,355 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 21:01:17,356 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 21:01:17,369 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 21:01:20,583 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 21:01:29,319 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 21:03:04,002 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 21:03:04,162 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000233D2866E10>成功获取<xlrd.sheet.Sheet object at 0x00000233D28A7470>成功
+2020-10-18 21:03:04,163 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:03:04,168 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000233D28A76D8>成功获取<xlrd.sheet.Sheet object at 0x00000233D2892F60>成功
+2020-10-18 21:03:04,168 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:03:04,169 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:03:13,789 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="de99bc53c32a90bca3bd0eb3016b0b08")>驱动成功
+2020-10-18 21:03:18,051 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 21:03:23,010 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 21:03:23,011 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 21:03:23,018 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 21:03:23,375 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:03:24,594 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 21:03:24,694 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:03:24,965 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 21:03:25,027 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 21:03:25,249 - base_page.py:[20] - INFO - 点击元素('name', 'login_pws')成功
+2020-10-18 21:03:25,249 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 21:03:30,249 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 21:03:30,259 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 21:03:33,374 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 21:03:37,921 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 21:45:48,889 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 21:45:48,968 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000236A8DF6D30>成功获取<xlrd.sheet.Sheet object at 0x00000236A8E3C358>成功
+2020-10-18 21:45:49,011 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:45:49,017 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000236A8E216A0>成功获取<xlrd.sheet.Sheet object at 0x00000236A8E3C0F0>成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:45:49,018 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:45:59,217 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="76658da44cac15022f84cf8e4ad4164f")>驱动成功
+2020-10-18 21:46:03,625 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 21:46:09,038 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 21:46:09,038 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 21:46:09,038 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 21:46:09,384 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:46:10,097 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 21:46:10,123 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:46:10,540 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 21:46:10,579 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 21:46:10,831 - base_page.py:[20] - INFO - 点击元素('name', 'login_pws')成功
+2020-10-18 21:46:10,831 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 21:46:15,833 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 21:46:16,306 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 21:46:19,112 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 21:46:23,861 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 21:47:07,464 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 21:47:07,565 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001B6B0625BA8>成功获取<xlrd.sheet.Sheet object at 0x000001B6B066C208>成功
+2020-10-18 21:47:07,565 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:47:07,571 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001B6B06504E0>成功获取<xlrd.sheet.Sheet object at 0x000001B6B066C160>成功
+2020-10-18 21:47:07,571 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 21:47:07,571 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:47:07,571 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:47:07,571 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 21:47:07,572 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 21:47:07,572 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:47:07,572 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:47:07,572 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:47:07,572 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:47:07,572 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:47:16,922 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c1a5d22439b333cdfcd50e578fcc124f")>驱动成功
+2020-10-18 21:47:21,320 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 21:47:25,551 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 21:47:25,551 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 21:47:25,556 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 21:47:26,004 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:47:26,507 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 21:47:26,586 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:47:26,916 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 21:47:26,954 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 21:47:27,249 - base_page.py:[20] - INFO - 点击元素('name', 'login_pws')成功
+2020-10-18 21:47:27,249 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 21:47:32,250 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 21:48:16,931 - base_page.py:[40] - ERROR - 打开网址http://localhost/iwebsns/index.php失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 28, in __open
+    self.base_driver.get(test_url)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 21:48:32,031 - base_page.py:[40] - ERROR - 打开网址http://localhost/iwebsns/index.php失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 28, in __open
+    self.base_driver.get(test_url)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 333, in get
+    self.execute(Command.GET, {'url': url})
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-18 21:48:34,513 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 21:57:16,949 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 21:57:17,118 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000211737A6D68>成功获取<xlrd.sheet.Sheet object at 0x00000211737EC3C8>成功
+2020-10-18 21:57:17,118 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:57:17,123 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000211737EC7B8>成功获取<xlrd.sheet.Sheet object at 0x00000211737D1F98>成功
+2020-10-18 21:57:17,124 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 21:57:17,124 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:57:17,124 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 21:57:17,124 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 21:57:17,124 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 21:57:17,124 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 21:57:17,145 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 21:57:17,145 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 21:57:17,145 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 21:57:17,145 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 21:57:27,372 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="1a09f9aba8bc1653c7cc8ed1c6d3400e")>驱动成功
+2020-10-18 21:57:31,854 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 21:57:38,078 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 21:57:38,078 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 21:57:38,079 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 21:57:38,262 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:57:38,823 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 21:57:38,877 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 21:57:39,211 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 21:57:39,292 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 21:57:39,481 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 21:57:39,482 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 21:57:44,482 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 21:57:44,489 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 21:57:46,808 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 21:57:51,349 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:02:10,606 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:02:10,778 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001AB36975BA8>成功获取<xlrd.sheet.Sheet object at 0x000001AB369BC208>成功
+2020-10-18 22:02:10,778 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:02:10,783 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001AB369A04E0>成功获取<xlrd.sheet.Sheet object at 0x000001AB369BC160>成功
+2020-10-18 22:02:10,783 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:02:10,783 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:02:10,784 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:02:32,341 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:02:32,389 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000019307606D68>成功获取<xlrd.sheet.Sheet object at 0x000001930764C3C8>成功
+2020-10-18 22:02:32,390 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:02:32,395 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001930764C7B8>成功获取<xlrd.sheet.Sheet object at 0x0000019307631F98>成功
+2020-10-18 22:02:32,396 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:02:32,396 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:02:32,396 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:02:32,396 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:02:32,417 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:02:32,417 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:02:32,417 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:02:32,417 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:02:32,417 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:02:32,417 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:03:31,139 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:03:31,221 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000174CBBE5BE0>成功获取<xlrd.sheet.Sheet object at 0x00000174CBC2C240>成功
+2020-10-18 22:03:31,221 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000174CBC10518>成功获取<xlrd.sheet.Sheet object at 0x00000174CBC2C320>成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:03:31,227 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:03:31,228 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:03:31,228 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:03:39,975 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="a23ce554193f9733c41b35b3bbbd66be")>驱动成功
+2020-10-18 22:03:44,769 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:03:50,037 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:03:50,037 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:03:50,038 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:03:50,253 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:03:51,419 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:03:51,461 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:03:51,994 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 22:03:52,031 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:03:52,321 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:03:52,321 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:03:57,322 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:03:57,368 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:03:57,369 - base_page.py:[40] - ERROR - 登录帐号错误，请重试不在当前页面
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 296, in assert_string
+    assert value in self.getpagecode()
+AssertionError
+2020-10-18 22:04:00,698 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:04:05,491 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:08:27,822 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:08:27,927 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DC18D34B70>成功获取<xlrd.sheet.Sheet object at 0x000001DC18D7B1D0>成功
+2020-10-18 22:08:27,927 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:08:27,950 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DC18D604A8>成功获取<xlrd.sheet.Sheet object at 0x000001DC18D7B278>成功
+2020-10-18 22:08:27,950 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:08:27,951 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:08:27,952 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:08:27,952 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:08:36,756 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="1b789ba74cae8c77615ed944d0d5c23e")>驱动成功
+2020-10-18 22:08:41,322 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:08:46,244 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:08:46,244 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:08:46,245 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:08:46,515 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:08:47,638 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:08:47,785 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:08:48,200 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 22:08:48,251 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:08:48,531 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:08:48,531 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:08:53,533 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:08:53,553 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:08:53,553 - base_page.py:[40] - ERROR - 登录帐号错误，请重试不在当前页面
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 296, in assert_string
+    assert value in self.getpagecode()
+AssertionError
+2020-10-18 22:08:54,447 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:08:58,398 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:09:16,399 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:09:16,451 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000256F2984BA8>成功获取<xlrd.sheet.Sheet object at 0x00000256F29CB1D0>成功
+2020-10-18 22:09:16,451 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:09:16,456 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000256F29B04E0>成功获取<xlrd.sheet.Sheet object at 0x00000256F29CB278>成功
+2020-10-18 22:09:16,456 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:09:16,457 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:09:24,573 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="bb0dbb54fb5a9bace1dac06942263940")>驱动成功
+2020-10-18 22:09:29,055 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:09:32,779 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:09:32,779 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:09:32,780 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:09:33,018 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:09:34,478 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 22:09:34,517 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:09:34,826 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据wuji0121成功
+2020-10-18 22:09:34,868 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:09:35,058 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:09:35,058 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:09:40,059 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:09:40,084 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:09:42,616 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:09:46,434 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:13:11,130 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:13:11,262 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CC91834B70>成功获取<xlrd.sheet.Sheet object at 0x000001CC9187B1D0>成功
+2020-10-18 22:13:11,263 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:13:11,268 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001CC918604A8>成功获取<xlrd.sheet.Sheet object at 0x000001CC9187B278>成功
+2020-10-18 22:13:11,268 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:13:11,268 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:13:11,268 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:13:11,269 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:13:19,555 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="9014f19c26465580bd0a1e15eaf3b64a")>驱动成功
+2020-10-18 22:13:23,917 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:13:27,818 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:13:27,818 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:13:27,819 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:13:27,984 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:13:28,971 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 22:13:29,057 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:13:29,436 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:13:29,570 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:13:29,831 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:13:29,832 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:13:34,833 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:13:40,448 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/main.php成功
+2020-10-18 22:13:54,248 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:13:58,095 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:14:27,128 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:14:27,194 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001149EEF4BA8>成功获取<xlrd.sheet.Sheet object at 0x000001149EF3B208>成功
+2020-10-18 22:14:27,194 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:14:27,199 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001149EF204E0>成功获取<xlrd.sheet.Sheet object at 0x000001149EF3B160>成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:14:27,200 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:14:35,250 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="77f83e6f62ab5ec62866b5c3901235bc")>驱动成功
+2020-10-18 22:14:39,616 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:14:43,453 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:14:43,453 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:14:43,453 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:14:43,778 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:14:44,856 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:14:44,927 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:14:45,216 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:14:45,309 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:14:45,428 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:14:45,428 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:14:50,429 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:14:50,438 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:14:50,438 - base_page.py:[20] - INFO - 登录帐号错误，请重试在当前页面
+2020-10-18 22:14:53,419 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:14:57,413 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:18:13,307 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:18:13,423 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000022C6BB55D30>成功获取<xlrd.sheet.Sheet object at 0x0000022C6BB9B390>成功
+2020-10-18 22:18:13,424 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:18:13,429 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000022C6BB9B780>成功获取<xlrd.sheet.Sheet object at 0x0000022C6BB81F60>成功
+2020-10-18 22:18:13,429 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:18:13,429 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:18:13,430 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:18:13,447 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:18:23,433 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="14e53ed29c00c538cad83429475b640b")>驱动成功
+2020-10-18 22:18:27,821 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:18:32,622 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:18:32,622 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:18:32,623 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:18:32,859 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:18:33,675 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:18:34,017 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:18:34,548 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:18:34,775 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:18:35,170 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:18:35,171 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:18:40,171 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:18:40,249 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:18:40,249 - base_page.py:[20] - INFO - 登录帐号错误，请重试 不在当前页面中
+2020-10-18 22:18:43,719 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:18:49,376 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:21:40,248 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:21:40,383 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002AE7A5D8E48>成功获取<xlrd.sheet.Sheet object at 0x000002AE7A6184A8>成功
+2020-10-18 22:21:40,384 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:21:54,544 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:21:54,544 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:21:54,896 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:21:55,719 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据113128804@qq.com成功
+2020-10-18 22:21:55,755 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:21:56,114 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:21:56,226 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:21:56,411 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:21:56,420 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:21:56,420 - base_page.py:[20] - INFO - 登录帐号错误，请重试 在当前页面中
+2020-10-18 22:23:16,927 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:23:17,381 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001479B1F5D30>成功获取<xlrd.sheet.Sheet object at 0x000001479B23B390>成功
+2020-10-18 22:23:17,381 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:23:17,386 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001479B221EF0>成功获取<xlrd.sheet.Sheet object at 0x000001479B23B208>成功
+2020-10-18 22:23:17,386 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:23:17,408 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:23:26,394 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="9777d251b8d5fa4a4c125b49173f393e")>驱动成功
+2020-10-18 22:23:30,743 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:23:35,489 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:23:35,489 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:23:35,489 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:23:35,849 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:23:36,678 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:23:36,780 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:23:37,243 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:23:37,529 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:23:38,034 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:23:38,035 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:23:43,036 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:23:43,044 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:23:43,044 - base_page.py:[20] - INFO - 登录帐号错误，请重试 不在当前页面中
+2020-10-18 22:23:46,301 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:23:51,017 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:24:51,339 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:24:51,436 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002BC7EC68E80>成功获取<xlrd.sheet.Sheet object at 0x000002BC7ECA74E0>成功
+2020-10-18 22:24:51,436 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:25:03,081 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:25:03,081 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:25:03,279 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:25:03,957 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据113128804@qq.com成功
+2020-10-18 22:25:04,021 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:25:04,255 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:25:04,311 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:25:04,851 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:25:05,042 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:25:05,043 - base_page.py:[20] - INFO - 登录帐号错误，请重试 在当前页面中
+2020-10-18 22:30:19,639 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:30:19,812 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000231D87B8E48>成功获取<xlrd.sheet.Sheet object at 0x00000231D87F94A8>成功
+2020-10-18 22:30:19,813 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:30:33,817 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:30:33,856 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:30:34,061 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:30:34,483 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据113128804@qq.com成功
+2020-10-18 22:30:34,513 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:30:34,740 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:30:34,784 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:30:34,914 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:30:34,925 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:30:34,925 - base_page.py:[40] - ERROR - 登录帐号错误，请重试 不在当前页面中
+Traceback (most recent call last):
+  File "G:/demo/wukong/page/base_page.py", line 296, in assert_string
+    assert value in self.getpagecode()
+AssertionError
+2020-10-18 22:31:34,372 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:31:34,530 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001E7CD347E80>成功获取<xlrd.sheet.Sheet object at 0x000001E7CD3894E0>成功
+2020-10-18 22:31:34,530 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:31:53,060 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:31:53,061 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:31:53,254 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:31:54,274 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据113128804@qq.com成功
+2020-10-18 22:31:54,340 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:31:54,700 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:31:54,762 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:31:55,076 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:31:55,086 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:31:55,086 - base_page.py:[40] - ERROR - 登录帐号错误，请重试 不在当前页面中
+Traceback (most recent call last):
+  File "G:/demo/wukong/page/base_page.py", line 296, in assert_string
+    assert value in self.getpagecode()
+AssertionError
+2020-10-18 22:32:52,176 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:32:52,272 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001B29B1F7E10>成功获取<xlrd.sheet.Sheet object at 0x000001B29B239470>成功
+2020-10-18 22:32:52,273 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:33:08,399 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:33:08,399 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:33:08,445 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:33:09,082 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据113128804@qq.com成功
+2020-10-18 22:33:09,141 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:33:09,482 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:33:09,601 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:33:10,316 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:33:20,323 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:33:20,324 - base_page.py:[20] - INFO - 登录帐号错误，请重试 在当前页面中 
+2020-10-18 22:33:46,396 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:33:46,497 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000019E3F1E7E80>成功获取<xlrd.sheet.Sheet object at 0x0000019E3F2294E0>成功
+2020-10-18 22:33:46,497 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:33:58,551 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:33:58,552 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:33:58,748 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:33:59,309 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据113128804@qq.com成功
+2020-10-18 22:33:59,396 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:33:59,871 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:33:59,960 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:34:00,179 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:34:10,235 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:34:10,236 - base_page.py:[40] - ERROR - 登录帐号误，请重试 不在当前页面中
+Traceback (most recent call last):
+  File "G:/demo/wukong/page/base_page.py", line 296, in assert_string
+    assert value in self.getpagecode()
+AssertionError
+2020-10-18 22:36:04,634 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:36:04,718 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001D693F16DA0>成功获取<xlrd.sheet.Sheet object at 0x000001D693F56400>成功
+2020-10-18 22:36:04,719 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:36:04,724 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001D693F419E8>成功获取<xlrd.sheet.Sheet object at 0x000001D693F56208>成功
+2020-10-18 22:36:04,724 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:36:04,724 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:36:04,724 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:36:04,724 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:36:04,725 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:36:04,725 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:36:04,725 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:36:04,725 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:36:04,725 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:36:04,725 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:36:13,011 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="bdc0b94fefd8b222b939a4caf8088ed4")>驱动成功
+2020-10-18 22:36:17,307 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:36:21,381 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:36:21,382 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:36:21,382 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:36:21,555 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:36:22,234 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:36:22,373 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:36:22,875 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:36:23,006 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:36:23,156 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:36:23,157 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:36:28,159 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:36:28,199 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:36:28,199 - base_page.py:[20] - INFO - 登录帐号错误，请重试 在当前页面中 
+2020-10-18 22:36:31,231 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:36:37,274 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:40:58,896 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:40:59,049 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001217FE26D30>成功获取<xlrd.sheet.Sheet object at 0x000001217FE6A390>成功
+2020-10-18 22:40:59,049 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:40:59,055 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001217FE6A780>成功获取<xlrd.sheet.Sheet object at 0x000001217FE50F60>成功
+2020-10-18 22:40:59,055 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:40:59,055 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:40:59,055 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:40:59,056 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:41:09,796 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="007f7f03418c54a2cbc69e4040cde5b0")>驱动成功
+2020-10-18 22:41:14,448 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:41:19,496 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:41:19,496 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:41:19,498 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:41:19,793 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:41:20,490 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:41:20,597 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:41:21,042 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:41:21,169 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:41:21,327 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:41:21,327 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:41:26,327 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:41:26,348 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:41:29,494 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:41:34,138 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 22:57:26,376 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 22:57:26,540 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002CDAA3F5B70>成功获取<xlrd.sheet.Sheet object at 0x000002CDAA43A1D0>成功
+2020-10-18 22:57:26,540 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:57:26,547 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002CDAA4204A8>成功获取<xlrd.sheet.Sheet object at 0x000002CDAA43A278>成功
+2020-10-18 22:57:26,547 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:57:26,547 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 22:57:26,547 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 22:57:26,547 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 22:57:26,547 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 22:57:26,548 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 22:57:26,548 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 22:57:26,548 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 22:57:26,548 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 22:57:26,564 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 22:57:36,286 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="bd24f4874c0e9a48ecd97661e97caf25")>驱动成功
+2020-10-18 22:57:40,753 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 22:57:45,080 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:57:45,080 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:57:45,081 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:57:45,253 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:57:46,139 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 22:57:46,295 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 22:57:46,673 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 22:57:46,719 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 22:57:47,019 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 22:57:47,019 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 22:57:52,019 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 22:57:52,029 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 22:57:52,029 - test_login.py:[20] - INFO - 登录帐号错误，请重试 等于 登录帐号错误，请重试
+2020-10-18 22:57:52,050 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:57:58,225 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 22:57:58,225 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 22:57:58,225 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 22:57:58,332 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 22:57:58,381 - base_page.py:[40] - ERROR - 元素('name', 'login_email')输入测试数据None失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 110, in input_value
+    element.send_keys(value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webelement.py", line 478, in send_keys
+    {'text': "".join(keys_to_typing(value)),
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\common\utils.py", line 150, in keys_to_typing
+    for i in range(len(val)):
+TypeError: object of type 'NoneType' has no len()
+2020-10-18 22:58:01,353 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 22:58:05,451 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 23:00:07,777 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 23:00:07,953 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001B965236D68>成功获取<xlrd.sheet.Sheet object at 0x000001B96527A390>成功
+2020-10-18 23:00:07,953 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:00:07,959 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001B96527A780>成功获取<xlrd.sheet.Sheet object at 0x000001B965261F60>成功
+2020-10-18 23:00:07,959 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:00:07,959 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 23:00:07,959 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 23:00:07,959 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:00:07,959 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 23:00:07,960 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 23:00:07,960 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:00:07,960 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 23:00:07,960 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 23:00:07,960 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 23:00:18,363 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="39c92976578a542dd7f2a84601b92c15")>驱动成功
+2020-10-18 23:00:22,939 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 23:00:27,020 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:00:27,021 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:00:27,021 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:00:27,225 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:00:28,029 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据成功
+2020-10-18 23:00:28,150 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:00:28,802 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 23:00:28,958 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:00:29,197 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:00:29,197 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:00:34,199 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:00:34,208 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:00:34,209 - test_login.py:[20] - INFO - 登录帐号错误，请重试 等于 登录帐号错误，请重试
+2020-10-18 23:00:37,027 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:00:41,708 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 23:05:54,350 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 23:05:54,510 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000021936A5DB38>成功获取<xlrd.sheet.Sheet object at 0x0000021936AE5400>成功
+2020-10-18 23:05:54,510 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000021936AD2F28>成功获取<xlrd.sheet.Sheet object at 0x0000021936AE5208>成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:05:54,516 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 23:05:54,517 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 23:05:54,517 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 23:06:02,900 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="41b0ab17b09809b208756e2e8c1f4f6c")>驱动成功
+2020-10-18 23:06:07,317 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 23:06:11,385 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:06:11,385 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:06:11,385 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:06:11,680 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:06:13,163 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 23:06:13,268 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:06:13,472 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji成功
+2020-10-18 23:06:13,544 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:06:14,009 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:06:14,089 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:06:19,090 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:06:19,101 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:06:19,102 - test_login.py:[20] - INFO - 测试案例通过，请查看测试报告
+2020-10-18 23:06:21,947 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:06:25,958 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 23:08:27,719 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 23:08:27,814 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002D4D1416DD8>成功获取<xlrd.sheet.Sheet object at 0x000002D4D1458438>成功
+2020-10-18 23:08:27,814 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002D4D14586A0>成功获取<xlrd.sheet.Sheet object at 0x000002D4D1442F28>成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 23:08:27,820 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 23:08:27,821 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 23:08:36,750 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="860f244514a00f1cf0bccc0db27e2078")>驱动成功
+2020-10-18 23:08:41,319 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 23:08:45,199 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:08:45,200 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:08:45,200 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:08:45,500 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:08:46,633 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 23:08:46,827 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:08:46,925 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据成功
+2020-10-18 23:08:47,015 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:08:47,228 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:08:47,228 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:08:52,427 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:08:52,459 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:08:52,459 - test_login.py:[20] - INFO - 测试案例通过，请查看测试报告
+2020-10-18 23:08:55,027 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:08:58,624 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-18 23:09:08,085 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-18 23:09:08,160 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000168538E6BE0>成功获取<xlrd.sheet.Sheet object at 0x000001685392A208>成功
+2020-10-18 23:09:08,160 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:09:08,166 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000016853910550>成功获取<xlrd.sheet.Sheet object at 0x000001685392A160>成功
+2020-10-18 23:09:08,166 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:09:08,166 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-18 23:09:08,186 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-18 23:09:08,187 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-18 23:09:15,195 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="2c79e1869a24d46cd5b77f420ca3a647")>驱动成功
+2020-10-18 23:09:19,431 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-18 23:09:23,045 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:09:23,045 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:09:23,045 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:09:23,241 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:09:23,745 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804q成功
+2020-10-18 23:09:23,781 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:09:24,178 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 23:09:24,236 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:09:24,357 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:09:24,358 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:09:29,359 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:09:29,366 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:09:29,366 - test_login.py:[20] - INFO - 测试案例通过，请查看测试报告
+2020-10-18 23:09:31,914 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:09:34,346 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:09:34,346 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:09:34,346 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:09:34,506 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:09:35,004 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 23:09:35,097 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:09:35,551 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji成功
+2020-10-18 23:09:35,580 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:09:35,644 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:09:35,644 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:09:40,646 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:09:40,651 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:09:40,652 - test_login.py:[20] - INFO - 测试案例通过，请查看测试报告
+2020-10-18 23:09:42,907 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:09:45,371 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:09:45,372 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:09:45,372 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:09:45,428 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:09:45,476 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据成功
+2020-10-18 23:09:45,502 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:09:45,885 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据wuji0121成功
+2020-10-18 23:09:45,917 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:09:45,999 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:09:45,999 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:09:50,999 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:09:51,057 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:09:51,057 - test_login.py:[20] - INFO - 测试案例通过，请查看测试报告
+2020-10-18 23:09:53,396 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:09:55,552 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-18 23:09:55,552 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-18 23:09:55,552 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-18 23:09:55,609 - base_page.py:[20] - INFO - 定位元素('name', 'login_email')成功
+2020-10-18 23:09:55,959 - base_page.py:[20] - INFO - 元素('name', 'login_email')输入测试数据1131228804@qq.com成功
+2020-10-18 23:09:56,029 - base_page.py:[20] - INFO - 定位元素('name', 'login_pws')成功
+2020-10-18 23:09:56,142 - base_page.py:[20] - INFO - 元素('name', 'login_pws')输入测试数据成功
+2020-10-18 23:09:56,200 - base_page.py:[20] - INFO - 定位元素('name', 'loginsubm')成功
+2020-10-18 23:09:56,299 - base_page.py:[20] - INFO - 点击元素('name', 'loginsubm')成功
+2020-10-18 23:09:56,299 - login_page.py:[20] - INFO - 点击登录成功---loding
+2020-10-18 23:10:01,300 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-18 23:10:01,306 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-18 23:10:01,307 - test_login.py:[20] - INFO - 测试案例通过，请查看测试报告
+2020-10-18 23:10:03,501 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-18 23:10:06,667 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功

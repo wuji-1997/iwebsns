@@ -1,0 +1,114 @@
+2020-10-17 21:08:56,380 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 21:10:55,667 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 21:10:55,900 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000205F8549748>成功获取<xlrd.sheet.Sheet object at 0x00000205F856BE48>成功
+2020-10-17 21:10:55,901 - readexcel.py:[20] - INFO - 获取表内数据成功
+2020-10-17 21:12:01,563 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 21:12:01,635 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000016D4F1C8780>成功获取<xlrd.sheet.Sheet object at 0x0000016D4F1EBE48>成功
+2020-10-17 21:12:01,637 - readexcel.py:[20] - INFO - 获取表数据操作描述成功
+2020-10-17 21:12:22,650 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 21:12:22,700 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002979FFB8780>成功获取<xlrd.sheet.Sheet object at 0x000002979FFDBE80>成功
+2020-10-17 21:12:22,700 - readexcel.py:[20] - INFO - 获取表数据 操作描述 成功
+2020-10-17 21:15:49,455 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 21:15:49,471 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 22:31:24,934 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:31:24,965 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:31:24,985 - base_page.py:[20] - INFO - 获取标题聚易社区成功
+2020-10-17 22:32:58,456 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:32:58,475 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:32:58,494 - base_page.py:[20] - INFO - 获取标题聚易社区成功
+2020-10-17 22:33:46,380 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:33:46,407 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:33:46,449 - base_page.py:[20] - INFO - 获取标题聚易社区成功
+2020-10-17 22:42:03,808 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:42:03,833 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:42:03,841 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:42:03,845 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:42:03,845 - base_page.py:[20] - INFO - 打开的网页http://localhost/iwebsns/index.php正确
+2020-10-17 22:42:58,598 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:42:58,620 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:42:58,680 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:42:58,699 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:42:58,699 - base_page.py:[20] - INFO - 打开的网页http://localhost/iwebsns/index.php正确
+2020-10-17 22:43:55,658 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:43:55,686 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:43:55,710 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:43:55,716 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:44:48,464 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:44:48,485 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:44:48,512 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:44:48,523 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:44:48,523 - base_page.py:[20] - INFO - 打开的网页http://localhost/iwebsns/index.php正确
+2020-10-17 22:45:19,110 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:45:19,141 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:45:19,148 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:45:19,162 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:47:37,233 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:47:37,265 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 22:47:37,322 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 22:47:37,349 - base_page.py:[20] - INFO - 获取当前页面网址http://localhost/iwebsns/index.php成功
+2020-10-17 23:18:21,609 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 23:18:21,789 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000157F65A86A0>成功获取<xlrd.sheet.Sheet object at 0x00000157F65C9CC0>成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-17 23:18:21,790 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-17 23:39:55,963 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 23:39:56,056 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000002C3C6905A20>成功获取<xlrd.sheet.Sheet object at 0x000002C3C6947080>成功
+2020-10-17 23:39:56,056 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-17 23:39:56,056 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-17 23:39:56,057 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-17 23:39:56,057 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-17 23:39:56,057 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-17 23:39:56,057 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-17 23:39:56,057 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-17 23:39:56,057 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-17 23:40:05,488 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="a59e3c01b4993c7ec4347102521f1216")>驱动成功
+2020-10-17 23:40:09,675 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-17 23:40:17,126 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="03fc29fd50aa0f960cf22297d746d478")>驱动成功
+2020-10-17 23:40:20,528 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-17 23:49:48,871 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 23:49:49,013 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000025DD12B1A20>成功获取<xlrd.sheet.Sheet object at 0x0000025DD12F6080>成功
+2020-10-17 23:49:49,014 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-17 23:49:49,018 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000025DD12DFBE0>成功获取<xlrd.sheet.Sheet object at 0x0000025DD12F63C8>成功
+2020-10-17 23:49:49,018 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-17 23:49:49,018 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-17 23:49:49,019 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-17 23:49:49,019 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-17 23:49:49,019 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-17 23:49:49,019 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-17 23:49:49,019 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-17 23:49:49,019 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-17 23:50:03,768 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-17 23:50:03,842 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000018DBF513C18>成功获取<xlrd.sheet.Sheet object at 0x0000018DBF557278>成功
+2020-10-17 23:50:03,842 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-17 23:50:03,847 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000018DBF53FC18>成功获取<xlrd.sheet.Sheet object at 0x0000018DBF557048>成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 退出 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-17 23:50:03,848 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-17 23:50:13,543 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="1357af49615c260a148f282ed09fc232")>驱动成功
+2020-10-17 23:50:17,921 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-17 23:50:23,348 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-17 23:50:23,348 - base_page.py:[20] - INFO - 打开网址成功
+2020-10-17 23:50:23,348 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-17 23:50:26,277 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-17 23:50:33,237 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="e412b664a522c674465d1e2e0bccbd07")>驱动成功
+2020-10-17 23:50:36,820 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
