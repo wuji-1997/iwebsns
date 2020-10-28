@@ -1,0 +1,1648 @@
+2020-10-28 09:34:46,592 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 09:34:46,670 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DB22157F28>成功获取<xlrd.sheet.Sheet object at 0x000001DB2219D908>成功
+2020-10-28 09:34:46,670 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:34:46,670 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 09:34:46,686 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DB2219D710>成功获取<xlrd.sheet.Sheet object at 0x000001DB22365470>成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 2020-11-2 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,748 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-13" 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 2020-11-13 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:34:46,764 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:34:56,168 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="9b9e645ca938e04293dcb21d1821c379")>驱动成功
+2020-10-28 09:35:00,392 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 09:35:03,815 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:35:03,815 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:35:03,815 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:35:03,893 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:35:04,227 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:35:04,259 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:35:04,394 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:35:04,424 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:35:04,528 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:04,528 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:35:13,398 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:35:19,875 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:19,896 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:35:19,943 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:35:24,176 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:24,224 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 09:35:24,328 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:24,333 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:35:28,335 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 09:35:28,359 - base_page.py:[20] - INFO - 执行jsp脚本成功
+2020-10-28 09:35:28,402 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1]') 成功
+2020-10-28 09:35:28,465 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:32,466 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 09:35:32,757 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:35:36,926 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:36,944 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:35:36,983 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:35:39,195 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:35:39,196 - test_app_vote.py:[20] - INFO - 截止时间修改为 “2020-11-13” 成功
+2020-10-28 09:35:39,212 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:35:39,213 - test_app_vote.py:[20] - INFO - 正确 “2020-11-13” 在当前页面中--------------测试案例通过
+2020-10-28 09:35:47,558 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:35:50,973 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 09:36:39,465 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001E1679E8D68>成功获取<xlrd.sheet.Sheet object at 0x000001E167A2D780>成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 09:36:39,512 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001E167A2D550>成功获取<xlrd.sheet.Sheet object at 0x000001E167BEC400>成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 2020-11-2 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,543 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-13" 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 2020-11-13 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:36:39,558 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:36:45,584 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="41dfc8ac38c61712c3fd6298f17993c4")>驱动成功
+2020-10-28 09:36:49,799 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 09:36:52,298 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:36:52,298 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:36:52,298 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:36:52,349 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:36:52,621 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:36:52,650 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:36:52,797 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:36:52,829 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:36:52,883 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:36:52,884 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:37:01,392 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:37:07,686 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:37:07,708 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:37:07,749 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:37:11,877 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:37:11,941 - base_page.py:[20] - INFO - 定位元素 ('link text', '删除本投票') 成功
+2020-10-28 09:37:12,032 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:37:12,040 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:37:16,122 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1]') 成功
+2020-10-28 09:37:16,173 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:37:16,174 - test_app_vote.py:[20] - INFO - 删除投票 “测试投票” 成功
+2020-10-28 09:37:16,187 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:37:16,187 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 不在当前页面中--------------测试案例通过
+2020-10-28 09:37:26,885 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:37:29,235 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 09:39:36,614 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000271556B7D68>成功获取<xlrd.sheet.Sheet object at 0x00000271556FC780>成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 09:39:36,661 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000271556FC550>成功获取<xlrd.sheet.Sheet object at 0x00000271558BB400>成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,677 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 09:39:36,895 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 2020-11-2 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-13" 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 2020-11-13 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,911 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:39:36,927 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:39:42,638 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="5d5d2894104b934d6feb8fbcb2d9b56f")>驱动成功
+2020-10-28 09:39:46,853 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 09:39:49,374 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:39:49,374 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:39:49,374 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:39:49,413 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:39:49,690 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:39:49,722 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:39:49,838 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:39:49,869 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:39:49,920 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:39:49,920 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:39:49,944 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:39:50,170 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:39:50,194 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:39:50,326 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:39:50,349 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:39:50,392 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:39:50,393 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:39:50,393 - test_app_vote.py:[20] - INFO - 登录成功
+2020-10-28 09:40:00,574 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:40:06,834 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:06,857 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:40:06,900 - base_page.py:[20] - INFO - 定位元素 ('link text', '发起投票') 成功
+2020-10-28 09:40:11,070 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:11,124 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="subject"]') 成功
+2020-10-28 09:40:11,242 - base_page.py:[20] - INFO - 输入测试数据 “测试投票” 成功
+2020-10-28 09:40:11,279 - base_page.py:[20] - INFO - 定位元素 ('link text', '添加投票详细说明') 成功
+2020-10-28 09:40:11,361 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:11,395 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="message"]') 成功
+2020-10-28 09:40:11,523 - base_page.py:[20] - INFO - 输入测试数据 “这是“投票”自动化测试案例” 成功
+2020-10-28 09:40:11,546 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input') 成功
+2020-10-28 09:40:11,695 - base_page.py:[20] - INFO - 输入测试数据 “web ui自动化” 成功
+2020-10-28 09:40:11,727 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input') 成功
+2020-10-28 09:40:11,822 - base_page.py:[20] - INFO - 输入测试数据 “web接口自动化” 成功
+2020-10-28 09:40:11,845 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input') 成功
+2020-10-28 09:40:11,916 - base_page.py:[20] - INFO - 输入测试数据 “功能测试” 成功
+2020-10-28 09:40:11,937 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select') 成功
+2020-10-28 09:40:16,941 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-28 09:40:17,092 - base_page.py:[20] - INFO - 下拉框处理成功
+2020-10-28 09:40:17,105 - base_page.py:[20] - INFO - 执行jsp脚本document.querySelector("#expiration").removeAttribute('readonly')成功
+2020-10-28 09:40:17,138 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="expiration"]') 成功
+2020-10-28 09:40:17,289 - base_page.py:[20] - INFO - 输入测试数据 “2020-11-2” 成功
+2020-10-28 09:40:17,313 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input') 成功
+2020-10-28 09:40:21,774 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:21,775 - test_app_vote.py:[20] - INFO - 新建投票 “测试投票” 成功
+2020-10-28 09:40:21,785 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:40:21,785 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 在当前页面中--------------测试案例通过
+2020-10-28 09:40:28,243 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:40:43,033 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:40:43,033 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:40:43,034 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:40:43,074 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:40:49,303 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:49,329 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:40:49,368 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:40:53,567 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:53,625 - base_page.py:[20] - INFO - 定位元素 ('link text', '增加候选项') 成功
+2020-10-28 09:40:53,717 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:40:53,723 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:40:57,821 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="add_new_option"]') 成功
+2020-10-28 09:40:57,995 - base_page.py:[20] - INFO - 输入测试数据 “app 接口自动化” 成功
+2020-10-28 09:40:58,019 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1]') 成功
+2020-10-28 09:40:58,075 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:41:08,082 - base_page.py:[20] - INFO - 现在开始需要强制等待10秒
+2020-10-28 09:41:08,113 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:41:10,307 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:41:10,329 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:41:10,360 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:41:12,571 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:41:12,572 - test_app_vote.py:[20] - INFO - 新增候选项 “app 接口自动化” 成功
+2020-10-28 09:41:12,584 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:41:12,584 - test_app_vote.py:[20] - INFO - 正确 “app 接口自动化” 在当前页面中--------------测试案例通过
+2020-10-28 09:41:20,991 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:41:35,722 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:41:35,723 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:41:35,723 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:41:35,752 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:41:42,013 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:41:42,038 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:41:42,078 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:41:46,220 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:41:46,279 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 09:41:46,377 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:41:46,383 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:41:50,386 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 09:41:50,401 - base_page.py:[40] - ERROR - 执行jsp脚本失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:41:50,417 - test_app_vote.py:[40] - ERROR - 截止时间修改为 “2020-11-13” 失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\test_case\test_app_vote.py", line 101, in test_cc_update_dealine_time
+    self.vote.update_dealine_time()
+  File "G:\demo\wukong\page\vote_page.py", line 124, in update_dealine_time
+    self.new_js(self.update_time[1][0],self.update_time[1][1])
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:41:56,766 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:42:11,494 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:42:11,494 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:42:11,495 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:42:11,525 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:42:17,800 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:42:17,827 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:42:17,861 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:42:21,981 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:42:22,037 - base_page.py:[20] - INFO - 定位元素 ('link text', '删除本投票') 成功
+2020-10-28 09:42:22,125 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:42:22,133 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:42:26,217 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1]') 成功
+2020-10-28 09:42:26,282 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:42:26,282 - test_app_vote.py:[20] - INFO - 删除投票 “测试投票” 成功
+2020-10-28 09:42:26,295 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:42:26,295 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 不在当前页面中--------------测试案例通过
+2020-10-28 09:42:36,850 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:42:39,214 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 09:43:34,297 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001905CAD8D30>成功获取<xlrd.sheet.Sheet object at 0x000001905CB1C748>成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 09:43:34,344 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001905CB1C518>成功获取<xlrd.sheet.Sheet object at 0x000001905CCDB400>成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 2020-11-2 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,375 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:43:34,391 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:43:40,034 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="cc5eb6c667d101edbc704720c73d0468")>驱动成功
+2020-10-28 09:43:44,223 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 09:43:46,718 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:43:46,718 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:43:46,718 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:43:46,755 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:43:47,001 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:43:47,044 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:43:47,144 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:43:47,173 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:43:47,228 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:43:47,228 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:43:47,248 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:43:47,457 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:43:47,481 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:43:47,578 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:43:47,601 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:43:47,645 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:43:47,645 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:43:47,645 - test_app_vote.py:[20] - INFO - 登录成功
+2020-10-28 09:43:58,013 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:44:04,470 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:04,493 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:44:04,531 - base_page.py:[20] - INFO - 定位元素 ('link text', '发起投票') 成功
+2020-10-28 09:44:08,686 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:08,734 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="subject"]') 成功
+2020-10-28 09:44:08,854 - base_page.py:[20] - INFO - 输入测试数据 “测试投票” 成功
+2020-10-28 09:44:08,875 - base_page.py:[20] - INFO - 定位元素 ('link text', '添加投票详细说明') 成功
+2020-10-28 09:44:08,978 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:09,006 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="message"]') 成功
+2020-10-28 09:44:09,192 - base_page.py:[20] - INFO - 输入测试数据 “这是“投票”自动化测试案例” 成功
+2020-10-28 09:44:09,215 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input') 成功
+2020-10-28 09:44:09,339 - base_page.py:[20] - INFO - 输入测试数据 “web ui自动化” 成功
+2020-10-28 09:44:09,365 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input') 成功
+2020-10-28 09:44:09,492 - base_page.py:[20] - INFO - 输入测试数据 “web接口自动化” 成功
+2020-10-28 09:44:09,529 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input') 成功
+2020-10-28 09:44:09,606 - base_page.py:[20] - INFO - 输入测试数据 “功能测试” 成功
+2020-10-28 09:44:09,636 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select') 成功
+2020-10-28 09:44:14,646 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-28 09:44:14,803 - base_page.py:[20] - INFO - 下拉框处理成功
+2020-10-28 09:44:14,813 - base_page.py:[20] - INFO - 执行jsp脚本document.querySelector("#expiration").removeAttribute('readonly')成功
+2020-10-28 09:44:14,848 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="expiration"]') 成功
+2020-10-28 09:44:15,008 - base_page.py:[20] - INFO - 输入测试数据 “2020-11-2” 成功
+2020-10-28 09:44:15,039 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input') 成功
+2020-10-28 09:44:19,475 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:19,475 - test_app_vote.py:[20] - INFO - 新建投票 “测试投票” 成功
+2020-10-28 09:44:19,484 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:44:19,485 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 在当前页面中--------------测试案例通过
+2020-10-28 09:44:25,850 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:44:40,646 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:44:40,646 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:44:40,647 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:44:40,674 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:44:46,960 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:46,986 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:44:47,021 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:44:51,234 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:51,280 - base_page.py:[20] - INFO - 定位元素 ('link text', '增加候选项') 成功
+2020-10-28 09:44:51,374 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:44:51,382 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:44:55,480 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="add_new_option"]') 成功
+2020-10-28 09:44:55,637 - base_page.py:[20] - INFO - 输入测试数据 “app 接口自动化” 成功
+2020-10-28 09:44:55,671 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1]') 成功
+2020-10-28 09:44:55,725 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:45:05,727 - base_page.py:[20] - INFO - 现在开始需要强制等待10秒
+2020-10-28 09:45:05,748 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:45:07,932 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:45:07,955 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:45:07,981 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:45:10,183 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:45:10,183 - test_app_vote.py:[20] - INFO - 新增候选项 “app 接口自动化” 成功
+2020-10-28 09:45:10,201 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:45:10,201 - test_app_vote.py:[20] - INFO - 正确 “app 接口自动化” 在当前页面中--------------测试案例通过
+2020-10-28 09:45:18,610 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:45:33,328 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:45:33,328 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:45:33,328 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:45:33,372 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:45:39,607 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:45:39,631 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:45:39,673 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:45:43,769 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:45:43,828 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 09:45:43,927 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:45:43,954 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:45:47,967 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 09:45:47,986 - base_page.py:[40] - ERROR - 执行jsp脚本失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:45:47,999 - test_app_vote.py:[40] - ERROR - 截止时间修改为 “2020-11-19” 失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\test_case\test_app_vote.py", line 101, in test_cc_update_dealine_time
+    self.vote.update_dealine_time()
+  File "G:\demo\wukong\page\vote_page.py", line 124, in update_dealine_time
+    self.new_js(self.update_time[1][0],self.update_time[1][1])
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:45:54,390 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:46:09,145 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:46:09,145 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:46:09,145 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:46:09,171 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:46:17,600 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:46:17,616 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:46:17,653 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:46:24,889 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:46:24,931 - base_page.py:[20] - INFO - 定位元素 ('link text', '删除本投票') 成功
+2020-10-28 09:46:30,040 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:46:30,044 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:46:32,173 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1]') 成功
+2020-10-28 09:46:37,221 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:46:37,221 - test_app_vote.py:[20] - INFO - 删除投票 “测试投票” 成功
+2020-10-28 09:46:37,236 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:46:37,236 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 不在当前页面中--------------测试案例通过
+2020-10-28 09:46:47,768 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:46:50,156 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 09:48:13,915 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000023CFD097BE0>成功获取<xlrd.sheet.Sheet object at 0x0000023CFD0DC828>成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 09:48:13,962 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000023CFD0DC588>成功获取<xlrd.sheet.Sheet object at 0x0000023CFD29E3C8>成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 2020-11-2 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:13,994 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:48:14,009 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:48:19,857 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="399c3e9c48a495a2329dc6a400936a3e")>驱动成功
+2020-10-28 09:48:24,074 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 09:48:26,599 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:48:26,600 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:48:26,600 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:48:26,644 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:48:26,903 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:48:26,934 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:48:27,087 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:48:27,110 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:48:27,172 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:48:27,172 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:48:27,192 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:48:27,444 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:48:27,470 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:48:27,577 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:48:27,599 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:48:27,634 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:48:27,635 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:48:27,635 - test_app_vote.py:[20] - INFO - 登录成功
+2020-10-28 09:48:37,842 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:48:44,149 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:48:44,172 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:48:44,214 - base_page.py:[20] - INFO - 定位元素 ('link text', '发起投票') 成功
+2020-10-28 09:48:48,347 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:48:48,396 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="subject"]') 成功
+2020-10-28 09:48:48,514 - base_page.py:[20] - INFO - 输入测试数据 “测试投票” 成功
+2020-10-28 09:48:48,548 - base_page.py:[20] - INFO - 定位元素 ('link text', '添加投票详细说明') 成功
+2020-10-28 09:48:48,633 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:48:48,668 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="message"]') 成功
+2020-10-28 09:48:48,826 - base_page.py:[20] - INFO - 输入测试数据 “这是“投票”自动化测试案例” 成功
+2020-10-28 09:48:48,850 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input') 成功
+2020-10-28 09:48:48,974 - base_page.py:[20] - INFO - 输入测试数据 “web ui自动化” 成功
+2020-10-28 09:48:49,006 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input') 成功
+2020-10-28 09:48:49,097 - base_page.py:[20] - INFO - 输入测试数据 “web接口自动化” 成功
+2020-10-28 09:48:49,117 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input') 成功
+2020-10-28 09:48:49,197 - base_page.py:[20] - INFO - 输入测试数据 “功能测试” 成功
+2020-10-28 09:48:49,219 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select') 成功
+2020-10-28 09:48:54,220 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-28 09:48:54,292 - base_page.py:[20] - INFO - 下拉框处理成功
+2020-10-28 09:48:54,302 - base_page.py:[20] - INFO - 执行jsp脚本document.querySelector("#expiration").removeAttribute('readonly')成功
+2020-10-28 09:48:54,325 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="expiration"]') 成功
+2020-10-28 09:48:54,485 - base_page.py:[20] - INFO - 输入测试数据 “2020-11-2” 成功
+2020-10-28 09:48:54,524 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input') 成功
+2020-10-28 09:48:58,902 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:48:58,902 - test_app_vote.py:[20] - INFO - 新建投票 “测试投票” 成功
+2020-10-28 09:48:58,911 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 09:48:58,911 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 在当前页面中--------------测试案例通过
+2020-10-28 09:49:05,255 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:49:19,934 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:49:19,934 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:49:19,934 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:49:19,965 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:49:28,335 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:49:28,358 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:49:28,384 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:49:30,678 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:49:30,727 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 09:49:30,817 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:49:30,824 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:49:34,839 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 09:49:34,871 - base_page.py:[40] - ERROR - 执行jsp脚本失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:49:34,875 - test_app_vote.py:[40] - ERROR - 截止时间修改为 “2020-11-19” 失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\test_case\test_app_vote.py", line 101, in test_cc_update_dealine_time
+    self.vote.update_dealine_time()
+  File "G:\demo\wukong\page\vote_page.py", line 124, in update_dealine_time
+    self.new_js(self.update_time[1][0],self.update_time[1][1])
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:49:41,258 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:49:43,546 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 09:51:43,638 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001ED91AC7EF0>成功获取<xlrd.sheet.Sheet object at 0x000001ED91B0D908>成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 09:51:43,736 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 09:51:43,752 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 09:51:43,752 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 09:51:43,752 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 09:51:43,768 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001ED91B0D6D8>成功获取<xlrd.sheet.Sheet object at 0x000001ED91CD5470>成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,783 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 09:51:43,799 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 09:51:50,015 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="093f05775ee9eb5c7da76eee607e065d")>驱动成功
+2020-10-28 09:51:54,241 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 09:51:56,867 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 09:51:56,867 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 09:51:56,867 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 09:51:56,948 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 09:51:57,229 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 09:51:57,260 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 09:51:57,375 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 09:51:57,397 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 09:51:57,526 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:51:57,526 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 09:52:06,178 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 09:52:12,596 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:52:12,621 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 09:52:12,660 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 09:52:16,827 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:52:16,871 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 09:52:16,974 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 09:52:16,981 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 09:52:20,992 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 09:52:21,008 - base_page.py:[40] - ERROR - 执行jsp脚本失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:52:21,060 - test_app_vote.py:[40] - ERROR - 截止时间修改为 “2020-11-19” 失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\test_case\test_app_vote.py", line 106, in test_cc_update_dealine_time
+    self.vote.update_dealine_time()
+  File "G:\demo\wukong\page\vote_page.py", line 124, in update_dealine_time
+    self.new_js(self.update_time[1][0],self.update_time[1][1])
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 09:52:27,451 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 09:52:29,837 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 10:05:23,119 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001C4469F7EF0>成功获取<xlrd.sheet.Sheet object at 0x000001C446A3E908>成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 10:05:23,197 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001C446A3E6D8>成功获取<xlrd.sheet.Sheet object at 0x000001C446C05470>成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,213 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 10:05:23,245 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,245 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 10:05:23,245 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,246 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 10:05:23,246 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,246 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 10:05:23,246 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,247 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 10:05:23,247 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,247 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:05:23,247 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,247 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 10:05:23,248 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,248 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:05:23,248 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,248 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 10:05:23,248 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,249 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 10:05:23,249 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 10:05:23,249 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,249 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 10:05:23,250 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 10:05:23,250 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 10:05:23,250 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 10:05:23,250 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,250 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 10:05:23,251 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,251 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 10:05:23,251 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:05:23,251 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 10:05:23,251 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,252 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 10:05:23,252 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 10:05:23,252 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,252 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 10:05:23,253 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 10:05:23,253 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,253 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 10:05:23,253 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,253 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 10:05:23,254 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:05:23,254 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:05:29,375 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="c3a43c7374f2b6ec39d4884f252baec4")>驱动成功
+2020-10-28 10:05:33,545 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 10:05:36,086 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 10:05:36,086 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 10:05:36,086 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 10:05:36,121 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 10:05:36,374 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 10:05:36,411 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 10:05:36,552 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 10:05:36,571 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 10:05:36,640 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:05:36,640 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 10:05:36,640 - test_app_vote.py:[20] - INFO - 登录成功
+2020-10-28 10:05:45,374 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:05:51,735 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:05:51,763 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 10:05:51,814 - base_page.py:[20] - INFO - 定位元素 ('link text', '发起投票') 成功
+2020-10-28 10:05:55,961 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:05:56,011 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="subject"]') 成功
+2020-10-28 10:05:56,135 - base_page.py:[20] - INFO - 输入测试数据 “测试投票” 成功
+2020-10-28 10:05:56,162 - base_page.py:[20] - INFO - 定位元素 ('link text', '添加投票详细说明') 成功
+2020-10-28 10:05:56,257 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:05:56,287 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="message"]') 成功
+2020-10-28 10:05:56,458 - base_page.py:[20] - INFO - 输入测试数据 “这是“投票”自动化测试案例” 成功
+2020-10-28 10:05:56,487 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input') 成功
+2020-10-28 10:05:56,625 - base_page.py:[20] - INFO - 输入测试数据 “web ui自动化” 成功
+2020-10-28 10:05:56,659 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input') 成功
+2020-10-28 10:05:56,755 - base_page.py:[20] - INFO - 输入测试数据 “web接口自动化” 成功
+2020-10-28 10:05:56,779 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input') 成功
+2020-10-28 10:05:56,848 - base_page.py:[20] - INFO - 输入测试数据 “功能测试” 成功
+2020-10-28 10:05:56,871 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select') 成功
+2020-10-28 10:06:01,885 - base_page.py:[20] - INFO - 现在开始需要强制等待5秒
+2020-10-28 10:06:02,021 - base_page.py:[20] - INFO - 下拉框处理成功
+2020-10-28 10:06:02,032 - base_page.py:[20] - INFO - 执行jsp脚本document.querySelector("#expiration").removeAttribute('readonly')成功
+2020-10-28 10:06:02,066 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="expiration"]') 成功
+2020-10-28 10:06:02,120 - base_page.py:[20] - INFO - 元素文本值清除成功
+2020-10-28 10:06:02,151 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="expiration"]') 成功
+2020-10-28 10:06:02,283 - base_page.py:[20] - INFO - 输入测试数据 “2020-11-20” 成功
+2020-10-28 10:06:02,312 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input') 成功
+2020-10-28 10:06:06,715 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:06:06,715 - test_app_vote.py:[20] - INFO - 新建投票 “测试投票” 成功
+2020-10-28 10:06:06,725 - base_page.py:[20] - INFO - 获取当前页面源码成功
+2020-10-28 10:06:06,726 - test_app_vote.py:[20] - INFO - 正确 “测试投票” 在当前页面中--------------测试案例通过
+2020-10-28 10:06:13,125 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 10:06:15,419 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 10:07:23,270 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 10:07:23,322 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x00000158535E7EF0>成功获取<xlrd.sheet.Sheet object at 0x000001585362E908>成功
+2020-10-28 10:07:23,322 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 10:07:23,322 - readexcel.py:[20] - INFO - 获取表数据 loginsubm 成功
+2020-10-28 10:07:23,322 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 10:07:23,322 - readexcel.py:[20] - INFO - 获取表数据 login_email 成功
+2020-10-28 10:07:23,322 - readexcel.py:[20] - INFO - 获取表数据 name 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 login_pws 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 /html/body/div/div[3]/div[2]/dl/dt[4]/a 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 1131228804@qq.com 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 1131228804q 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/index.php 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 wuji0121 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 wuji 成功
+2020-10-28 10:07:23,323 - readexcel.py:[20] - INFO - 获取表数据 http://localhost/iwebsns/main.php 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001585362E6D8>成功获取<xlrd.sheet.Sheet object at 0x00000158537F5470>成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,339 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:07:23,354 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:07:29,185 - driver.py:[20] - INFO - 启动<selenium.webdriver.chrome.webdriver.WebDriver (session="11a76fab1f68762b055a4da9d93ca2d6")>驱动成功
+2020-10-28 10:07:33,349 - myunit.py:[20] - INFO - 打开谷歌浏览器成功
+2020-10-28 10:07:35,906 - base_page.py:[20] - INFO - 打开网址http://localhost/iwebsns/index.php成功
+2020-10-28 10:07:35,906 - base_page.py:[20] - INFO - 登录网址成功
+2020-10-28 10:07:35,906 - myunit.py:[20] - INFO - ------------------执行案例开始-----------------
+2020-10-28 10:07:35,939 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_email') 成功
+2020-10-28 10:07:36,198 - base_page.py:[20] - INFO - 输入测试数据 “1131228804@qq.com” 成功
+2020-10-28 10:07:36,229 - base_page.py:[20] - INFO - 定位元素 ('name', 'login_pws') 成功
+2020-10-28 10:07:36,332 - base_page.py:[20] - INFO - 输入测试数据 “wuji0121” 成功
+2020-10-28 10:07:36,363 - base_page.py:[20] - INFO - 定位元素 ('name', 'loginsubm') 成功
+2020-10-28 10:07:36,418 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:07:36,418 - login_page.py:[20] - INFO - 正在登录中===================================================
+2020-10-28 10:07:44,945 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:07:51,198 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:07:51,220 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 10:07:51,268 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 10:07:55,466 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:07:55,518 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 10:07:55,608 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:07:55,616 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 10:07:59,632 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 10:07:59,674 - base_page.py:[40] - ERROR - 执行jsp脚本失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 10:07:59,680 - test_app_vote.py:[40] - ERROR - 截止时间修改为 “2020-11-19” 失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\test_case\test_app_vote.py", line 106, in test_cc_update_dealine_time
+    self.vote.update_dealine_time()
+  File "G:\demo\wukong\page\vote_page.py", line 125, in update_dealine_time
+    self.new_js(self.update_time[1][0],self.update_time[1][1])
+  File "G:\demo\wukong\page\base_page.py", line 484, in new_js
+    self.base_driver.execute_script(jsp)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 636, in execute_script
+    'args': converted_args})['value']
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.JavascriptException: Message: javascript error: Cannot read property 'removeAttribute' of null
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 10:08:06,020 - myunit.py:[20] - INFO - ------------------执行案例完成-----------------
+2020-10-28 10:08:08,354 - myunit.py:[20] - INFO - 关闭谷歌驱动驱动成功
+2020-10-28 10:10:52,094 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000022FD6FD85F8>成功获取<xlrd.sheet.Sheet object at 0x0000022FD6FF2D68>成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,144 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:10:52,159 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:17:18,372 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001DAAE042240>成功获取<xlrd.sheet.Sheet object at 0x000001DAAE0549B0>成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,490 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:17:18,506 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,507 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 10:17:18,507 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,507 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:17:18,507 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,507 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,508 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,509 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:17:18,510 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:17:39,277 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:17:45,601 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:17:45,620 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 10:17:45,665 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 10:17:47,931 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:17:47,968 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:17:48,051 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:17:48,059 - base_page.py:[40] - ERROR - 切换表单失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 274, in switch_frame
+    self.base_driver.switch_to.frame(value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 89, in frame
+    self._driver.execute(Command.SWITCH_TO_FRAME, {'id': frame_reference})
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchFrameException: Message: no such frame
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 10:34:00,519 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x0000025BC06B2240>成功获取<xlrd.sheet.Sheet object at 0x0000025BC06C49B0>成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,613 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:34:00,628 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:34:18,933 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:34:25,284 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:34:25,305 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 10:34:25,351 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 10:34:29,555 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:34:29,588 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:34:29,680 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:34:29,687 - base_page.py:[40] - ERROR - 切换表单失败
+Traceback (most recent call last):
+  File "G:\demo\wukong\page\base_page.py", line 274, in switch_frame
+    self.base_driver.switch_to.frame(value)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\switch_to.py", line 89, in frame
+    self._driver.execute(Command.SWITCH_TO_FRAME, {'id': frame_reference})
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\wuji\AppData\Local\Programs\Python\Python36\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchFrameException: Message: no such frame
+  (Session info: chrome=75.0.3770.142)
+
+2020-10-28 10:35:36,932 - readini.py:[40] - ERROR - 读取配置文件G:\demo\wukong\config\config.ini成功
+NoneType: None
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 打开<xlrd.book.Book object at 0x000001ADDB7C21D0>成功获取<xlrd.sheet.Sheet object at 0x000001ADDB7D4940>成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 class 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 app_vote 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 发起投票 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="subject"] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 添加投票详细说明 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="message"] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 这是“投票”自动化测试案例 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[4]/td/input 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 web ui自动化 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[5]/td/input 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 web接口自动化 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[1]/tr[6]/td/input 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 功能测试 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[1]/td/select 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 可多选，最多2项 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 document.querySelector("#expiration").removeAttribute('readonly') 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="expiration"] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 2020-11-20 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[3]/td/input[2] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[4]/td/input[1] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[3]/tr[5]/td/input[2] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="makefeed"] 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="addnewpoll"]/table/tbody[5]/tr[2]/td[2]/input 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:36,994 - readexcel.py:[20] - INFO - 获取表数据 测试投票 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 删除本投票 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 增加候选项 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_new_option"] 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 app 接口自动化 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 修改截至日期 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").removeAttribute("readonly"); 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 document.getElementById("expiration").value="2020-11-19" 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 2020-11-19 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 写投票总结 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_summary"] 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 link_text 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 追加悬赏 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sum"] 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 100 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="add_award_sing"] 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 10 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1] 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="iframecontent"]/dl/dd[2]/span[3]/a 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 xpath 成功
+2020-10-28 10:35:37,010 - readexcel.py:[20] - INFO - 获取表数据 //*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[5]/td/input[1] 成功
+2020-10-28 10:35:54,708 - base_page.py:[20] - INFO - 定位元素 ('class name', 'app_vote') 成功
+2020-10-28 10:36:01,073 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:36:01,094 - base_page.py:[20] - INFO - 切换表单成功
+2020-10-28 10:36:01,142 - base_page.py:[20] - INFO - 定位元素 ('link text', '测试投票') 成功
+2020-10-28 10:36:05,392 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:36:05,421 - base_page.py:[20] - INFO - 定位元素 ('link text', '修改截至日期') 成功
+2020-10-28 10:36:05,521 - base_page.py:[20] - INFO - 点击元素成功
+2020-10-28 10:36:05,528 - base_page.py:[20] - INFO - 返回最外层表单成功
+2020-10-28 10:36:09,531 - base_page.py:[20] - INFO - 现在开始需要强制等待4秒
+2020-10-28 10:36:09,545 - base_page.py:[20] - INFO - 执行jsp脚本成功
+2020-10-28 10:36:09,587 - base_page.py:[20] - INFO - 定位元素 ('xpath', '//*[@id="_DialogTable_0"]/tbody/tr[2]/td/table/tbody/tr[6]/td/input[1]') 成功
+2020-10-28 10:36:09,648 - base_page.py:[20] - INFO - 点击元素成功

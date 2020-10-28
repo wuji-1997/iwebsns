@@ -37,5 +37,5 @@ class Read_conf(object):
 
 if __name__=="__main__":
     test = Read_conf()
-    value =  test.getconfvalue(os.path.join(conf.currpath,'config.ini'),'project','project_path')
+    value =  test.getconfvalue(os.path.join(conf.current_path,'config.ini'),'project','project_path')
     print(value)

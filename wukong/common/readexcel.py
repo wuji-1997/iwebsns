@@ -40,6 +40,7 @@ class ReadExcel(object):
             return value
 
 if __name__=='__main__':
-    test = ReadExcel('测试用例')
-    value = test.getExcelValue(0,0)
-    print(value)
+    test = ReadExcel('相册页面')
+    value = test.getExcelValue(5,4)
+    value2 = test.getExcelValue(5,5)
+    print(value,value2)
